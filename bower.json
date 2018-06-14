@@ -1,0 +1,16 @@
+{
+  "name": "rudolf",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "rudolf ",
+  "moduleType": [
+    "rudolf"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "*"
+  }
+}
